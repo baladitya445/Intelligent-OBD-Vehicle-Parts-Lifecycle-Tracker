@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "128908343906",
+    "project_id": "obd-vehicle-tracker",
+    "storage_bucket": "obd-vehicle-tracker.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128908343906:android:cba51aa78054b11bea6f3b",
+        "android_client_info": {
+          "package_name": "com.obdtracker.lol"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWH2kGTHRpUIPYitN6xNJosiu3GdPoSfY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
